@@ -2,16 +2,15 @@
 templateKey: blog-post
 title: '12IN12 - FEBRUARY: DÜSSELDORF'
 date: 2018-02-11T14:50:13.000Z
-description: >-
-  Architecture is varied, but there is not much of the extremely modern glass
-  around. Brickwork dominates and it feels that even new buildings are trying to
-  fit in.
+description: '12 Cities, 12 Months.'
 tags:
   - 12in12
   - Dusseldorf
   - Travel
   - HDR
 ---
+Architecture is varied, but there is not much of the extremely modern glass around. Brickwork dominates and it feels that even new buildings are trying to fit in.
+
 ![null](/img/img_1516-4.jpg)
 
 The main exception is the area around the Rhine Towner, a needle standing tall and alone on the riverside and the various modernist buildings nearby.
