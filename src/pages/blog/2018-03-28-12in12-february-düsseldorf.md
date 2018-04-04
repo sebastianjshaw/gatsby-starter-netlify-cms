@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: '12IN12 - FEBRUARY: DÜSSELDORF'
+title: 'FEBRUARY: DÜSSELDORF'
 date: 2018-02-11T14:50:13.000Z
 description: '12 Cities, 12 Months.'
 tags:
@@ -8,6 +8,7 @@ tags:
   - Dusseldorf
   - Travel
   - HDR
+  - DÜSSELDORF
 ---
 Architecture is varied, but there is not much of the extremely modern glass around. Brickwork dominates and it feels that even new buildings are trying to fit in.
 
