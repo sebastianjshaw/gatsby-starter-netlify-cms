@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'FEBRUARY: DÜSSELDORF'
+image: /img/img_1516-4.jpg
 date: 2018-02-11T14:50:13.000Z
 description: '12 Cities, 12 Months.'
 tags:
