@@ -59,6 +59,7 @@ export const BlogPostTemplate = ({
 }
 
 BlogPostTemplate.propTypes = {
+  image: PropTypes.string,
   content: PropTypes.string.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
@@ -71,6 +72,7 @@ const BlogPost = ({ data }) => {
 
   return (
     <BlogPostTemplate
+      image={frontmatter.image}
       content={post.html}
       contentComponent={HTMLContent}
       description={post.frontmatter.description}
@@ -96,6 +98,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
+        image
         title
         description
         tags
